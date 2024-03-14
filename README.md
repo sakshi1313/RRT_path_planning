@@ -5,6 +5,7 @@ Contained within the repository are two scripts:
    
 To execute the code, follow these steps:
 
-1. Clone the repository: Use the following command to clone the repository to your local machine: git clone https://github.com/sakshi1313/RRT_path_planning.git
+1. Clone the repository: Use the following command to clone the repository to your local machine:
+git clone https://github.com/sakshi1313/RRT_path_planning.git
 2. Run the script.cpp: Compile and run the script.cpp file.
 3. View the output: The generated path coordinates will be displayed in the terminal.
